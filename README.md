@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jean!
-- 👀 I’m interested in Software Development / Web3 Specialist.
+- 👀 I’m interested in Software Development / Web3 Projects.
 - 🌱 I’m currently working with PHP / Node with Laravel / React.
 - 💞️ I’m looking to collaborate on Web3 Projects.
 - 🚀 Blockchain Entrepreneur.
